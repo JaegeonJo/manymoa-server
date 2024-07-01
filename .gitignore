@@ -40,3 +40,6 @@ tasks.json
 
 # bin directory
 /bin/
+
+# Ignore config file for security
+config/
